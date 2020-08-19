@@ -2,6 +2,8 @@
 # ~/.bashrc
 #
 
+# Note: a lot of this stuff is linux-based and work not work properly on a mac
+
 # Arch package manager yay aliases
 alias y="yay"
 alias search="yay -Ss"
